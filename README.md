@@ -261,6 +261,3 @@ It is a practical demonstration of Python skills in:
 * Functions
 * Loops
 * Data analysis
-
-
-Upload the complete project to [GitHub](https://github.com?utm_source=chatgpt.com) to showcase your Python and data analysis skills professionally.
